@@ -1,0 +1,29 @@
+#container{
+    width:70%;
+    height:400px;
+    
+}
+
+#container div{
+    
+    height:78px;
+    background-color: rgb(30, 91, 161);
+    color:white;
+}
+
+#container div h1{
+    
+   padding:20px 10px;
+   font-size: 32px;
+}
+
+
+textarea{
+    resize: none;
+    
+}
+
+
+#words{
+    box-sizing: border-box;
+}
